@@ -5,16 +5,10 @@
    "apellido_paterno": "Piña",
    "apellido_materno": "Avelino",
    "sexo": "hombre",
-   "fecha_nacimiento": "1990-01-01:00:00.511Z",
-   "email": "miguel@mail.com",
-   "pais": "México"
  }, {
    "id" : 2,
    "nombre": "Juan",
    "apellido_paterno": "Perez",
    "apellido_materno": "Martinez",
    "sexo": "hombre",
-   "fecha_nacimiento": "1990-01-01:00:00.511Z",
-   "email": "juan@mail.com",
-   "Pais": "USA"
  }]}
