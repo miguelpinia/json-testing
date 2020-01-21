@@ -1,0 +1,10 @@
+{
+  "id": 1,
+  "nombre": "Miguel Angel",
+  "apellido_paterno": "Piña",
+  "apellido_materno": "Avelino",
+  "sexo": "hombre",
+  "fecha_nacimiento": "1990-01-01:00:00.511Z",
+  "email": "miguel@mail.com",
+  "pais": "México"
+}
