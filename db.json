@@ -4,11 +4,11 @@
    "nombre": "Miguel Angel",
    "apellido_paterno": "Piña",
    "apellido_materno": "Avelino",
-   "sexo": "hombre",
+   "sexo": "hombre"
  }, {
    "id" : 2,
    "nombre": "Juan",
    "apellido_paterno": "Perez",
    "apellido_materno": "Martinez",
-   "sexo": "hombre",
+   "sexo": "hombre"
  }]}
